@@ -13,8 +13,8 @@ This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](h
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/mobile-first-rock-paper-scissors-lizard-and-spock-game-w85iD_lmdw)
+- Live Site URL: [Github page](http://ericpatricioportfolio.tech/rock-paper-scissors-lizard-spock_game/)
 
 ### Built with
 
